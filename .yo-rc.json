@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.viettel.gateway"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.viettel.gateway",
+    "packageFolder": "com/viettel/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWE1YmRkZjhhNDgzYWMyYWU0MTUyYWUyMzI0YjA4MzBlMjZiZTE3ZThkYjk0MzU4YzFhNjFjMTE5MGZiNjU5NDNmMTIwMGI2MjhmNDRhYTc4Mzk5Mjc3ZTRkMzgxNzgyYWRiNTY0OGQyOTMzY2U0ZDQzNTVjNzZjYzQ4NWQ5ZGU=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1589008076879,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
